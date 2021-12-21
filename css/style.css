@@ -15,12 +15,6 @@ header{
     display: flex;
     flex-wrap: wrap;
 }
-.web-header img{
-    float: left;
-    width: 70px;
-    height: 70px;
-    margin: 0 30px;
-}
 
 .web-header h1{
     margin: auto 0;
